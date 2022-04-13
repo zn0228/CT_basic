@@ -5,7 +5,7 @@ function solution(phone_number) {
     for (let i = 0; i < str.length - 4; i++){
         str[i] = "*";
     }
-    
+    칙ㄱ
     var answer = str.join('');
     return answer;
 }
